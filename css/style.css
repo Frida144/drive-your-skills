@@ -12,33 +12,6 @@ html {
     scroll-behavior: smooth;
 }
 
-/* ============================================================
-              🎀 STYLE GLOBAL DU BODY🎀
-============================================================ */
-@font-face {
-    font-family: 'Playfair Display';
-    src: local('Playfair Display'), url('fonts/PlayfairDisplay.woff2') format('woff2'), url('fonts/PlayfairDisplay.woff') format('woff');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Montserrat';
-    src: local('Montserrat'), url('fonts/Montserrat.woff2') format('woff2'), url('fonts/Montserrat.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Cormorant Garamond';
-    src: local('Cormorant Garamond'), url('fonts/CormorantGaramond.woff2') format('woff2'), url('fonts/CormorantGaramond.woff') format('woff');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
-
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: #E6DDCB;
